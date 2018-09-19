@@ -1,0 +1,2 @@
+# Image_classifier
+deployment of image classification  on cifar10 dataset usinf flask backend
